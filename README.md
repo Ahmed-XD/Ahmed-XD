@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ahmed-XD.visitor-badge&left_color=blue&right_color=yellow)
-<br />
- 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Ahmed-XD/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Ahmed-XD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-XD&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Ahmed-XD" /> </p>
+</i></b></h3>
