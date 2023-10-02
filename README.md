@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ahmed-XD/Ahmed-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Quote
+
+“The only true wisdom is knowing that you know nothing.”
+
+– Socrates
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-XD&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Ahmed-XD" /> </p>
 </i></b></h3>
-
-# UP ?
